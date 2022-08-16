@@ -61,8 +61,6 @@ public class Menu {
     }
 
     public static void main(String[] args) {
-        //menu();
-        //int x=String.format("0%d", 1);
-        System.out.printf("0%d", 1);
+        menu();
     }
 }
